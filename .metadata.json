@@ -1,0 +1,10 @@
+[
+  {
+    "package": "crs",
+    "oncran": true
+  },
+  {
+    "package": "np",
+    "oncran": true
+  }
+]
