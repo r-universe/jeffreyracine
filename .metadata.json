@@ -1,10 +1,10 @@
 [
   {
-    "package": "crs",
+    "package": "np",
     "oncran": true
   },
   {
-    "package": "np",
+    "package": "crs",
     "oncran": true
   }
 ]
