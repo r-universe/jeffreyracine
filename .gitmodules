@@ -8,3 +8,6 @@
 [submodule "np"]
 	path = np
 	url = https://github.com/jeffreyracine/r-package-np
+[submodule "npRmpi"]
+	path = npRmpi
+	url = https://github.com/cran/npRmpi
